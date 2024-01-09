@@ -1,0 +1,103 @@
+Competitors' Full Details:
+
+        113      Aby Mathew        UK          34         Male       Novice    2, 3, 6, 5, 4   4.0
+ 
+        109      Andy Stov         US          22         Female     Expert    6, 2, 9, 6, 2   5.0
+ 
+        100      Ann Sthen         UK          23         Female     Expert    5, 2, 1, 9, 5   4.4
+ 
+        112      Catherin George   UAE         20         Male       Expert    1, 4, 4, 2, 6   3.4
+ 
+        101      George Beth Shon  UK          31         Male       Novice    2, 6, 5, 5, 4   4.4
+ 
+        105      Harry Patrick     UK          32         Male       Novice    2, 6, 5, 8, 5   5.2
+ 
+        114      Jojo Mony         UK          31         Male       Novice    2, 3, 6, 7, 9   5.4
+ 
+        111      Jomon Vicy        UK          22         Male       Novice    6, 9, 10, 9, 8  8.4
+ 
+        102      Kaith Andy Clos   UK          29         Female     Novice    4, 7, 2, 2, 6   4.2
+ 
+        119      Lijo Willams      UK          28         Male       Novice    6, 2, 5, 8, 5   5.2
+ 
+        104      Mark Do Leno      UK          22         Male       Novice    5, 7, 4, 2, 8   5.2
+ 
+        110      Mary Francis      UK          27         Male       Novice    7, 9, 6, 6, 4   6.4
+ 
+        115      Methen George     UK          30         Male       Expert    4, 7, 7, 8, 3   5.8
+ 
+        107      Monica Loy        US          29         Female     Novice    4, 4, 8, 2, 5   4.6
+ 
+        117      Patrick Shanon    US          22         Male       Novice    4, 9, 9, 10, 7  7.8
+ 
+        103      Rinon Grov        US          25         Male       Expert    1, 1, 5, 7, 1   3.0
+ 
+        118      Rod Stod          UK          26         Male       Expert    5, 9, 2, 4, 5   5.0
+ 
+        116      Scarlett John     UK          25         Female     Novice    3, 4, 6, 5, 5   4.6
+ 
+        108      Susan Mathew      US          28         Female     Novice    5, 6, 5, 3, 7   5.2
+ 
+        106      Vicy Mathew       UK          33         Male       Expert    6, 2, 9, 5, 7   5.8
+ 
+
+Competitor with the Highest Overall Score:
+Competitor number 111, name Jomon Vicy, country UK.
+Jomon is a Novice aged 22 and received these scores: 6, 9, 10, 9, 8
+This gives him an overall score of 8.4.
+
+Competitor with the Lowest Overall Score:
+Competitor number 103, name Rinon Grov, country US.
+Rinon is a Expert aged 25 and received these scores: 1, 1, 5, 7, 1
+This gives him an overall score of 3.0.
+
+Competitor with the Highest Level:
+Competitor number 113, name Aby Mathew, country UK.
+Aby is a Novice aged 34 and received these scores: 2, 3, 6, 5, 4
+This gives him an overall score of 4.0.
+
+Competitor with the Lowest Level:
+Competitor number 109, name Andy Stov, country US.
+Andy is a Expert aged 22 and received these scores: 6, 2, 9, 6, 2
+This gives her an overall score of 5.0.
+
+Summary Statistics:
+
+1. Total Number of Competitors: 20
+
+2. Average Overall Score: 5.15
+
+3. Competitor with the Lowest Overall Score:
+Competitor number 103, name Rinon Grov, country US.
+Rinon is a Expert aged 25 and received these scores: 1, 1, 5, 7, 1
+This gives him an overall score of 3.0.
+
+4. Competitor with the Highest Level:
+Competitor number 113, name Aby Mathew, country UK.
+Aby is a Novice aged 34 and received these scores: 2, 3, 6, 5, 4
+This gives him an overall score of 4.0.
+
+Frequency Report for Individual Scores:
+
+Score 1: 5 times
+Score 2: 15 times
+Score 3: 5 times
+Score 4: 13 times
+Score 5: 19 times
+Score 6: 15 times
+Score 7: 10 times
+Score 8: 6 times
+Score 9: 10 times
+Score 10: 2 times
+
+Additional Statistics:
+- Highest Score: 10
+- Lowest Score: 1
+- Highest Level: Novice
+- Lowest Level: Expert
+- Oldest Competitor: Competitor number 113, name Aby Mathew, country UK.
+Aby is a Novice aged 34 and received these scores: 2, 3, 6, 5, 4
+This gives him an overall score of 4.0.
+- Youngest Competitor: Competitor number 112, name Catherin George, country UAE.
+Catherin is a Expert aged 20 and received these scores: 1, 4, 4, 2, 6
+This gives him an overall score of 3.4.
